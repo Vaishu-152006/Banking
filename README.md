@@ -18,4 +18,10 @@ The project follows a layered architecture and demonstrates real-time database c
 => Uses Java Beans 
 
 
-<img width="300" height="313" alt="image" src="https://github.com/user-attachments/assets/adfa90e9-b0f1-49e4-900d-5e289364a534" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/adfa90e9-b0f1-49e4-900d-5e289364a534" />
+
+<img width="400" height="293" alt="image" src="https://github.com/user-attachments/assets/5a744260-3582-4ee3-b630-da58def1001a" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/27768a09-3744-40ab-82bf-44418f30aa72" />
+
+
